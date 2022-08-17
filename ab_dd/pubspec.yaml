@@ -1,6 +1,6 @@
 name: ab_dd
 description: A new flutter plugin project.
-version: 0.0.2
+version: 0.0.4
 homepage:
 publish_to: http://localhost:8080
 
@@ -12,7 +12,7 @@ dependencies:
   flutter:
     sdk: flutter
   ab_dd_platform_interface: ^0.0.8
-  ab_dd_android: ^0.0.4
+  ab_dd_android: ^0.0.8
   ab_dd_platform_ios: ^0.0.3
 
 dev_dependencies:

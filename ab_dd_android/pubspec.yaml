@@ -1,6 +1,6 @@
 name: ab_dd_android
 description: A new flutter plugin project.
-version: 0.0.4
+version: 0.0.9
 homepage:
 publish_to: http://localhost:8080
 
