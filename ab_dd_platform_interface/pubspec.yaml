@@ -1,6 +1,6 @@
 name: ab_dd_platform_interface
 description: A new Flutter package project.
-version: 0.0.1
+version: 0.0.8
 homepage:
 publish_to: http://localhost:8080
 
