@@ -2,7 +2,7 @@ name: ab_dd
 description: A new flutter plugin project.
 version: 0.0.1
 homepage:
-publish_to: http:localhost:8080
+publish_to: http://localhost:8080
 
 environment:
   sdk: ">=2.17.6 <3.0.0"
