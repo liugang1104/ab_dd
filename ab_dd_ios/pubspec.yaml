@@ -2,7 +2,7 @@ name: ab_dd_ios
 description: A new flutter plugin project.
 version: 0.0.3
 homepage:
-publish_to: http://10.141.64.130:8080
+publish_to: http://localhost:8080
 
 environment:
   sdk: ">=2.17.6 <3.0.0"
@@ -11,8 +11,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  ab_dd_platform_interface:
-    path: ../ab_dd_platform_interface
+  ab_dd_platform_interface: ^0.0.1
 
 dev_dependencies:
   flutter_test:
